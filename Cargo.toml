@@ -1,0 +1,11 @@
+[package]
+name = "netrc-jdx"
+version = "0.0.0"
+edition = "2024"
+description = "Small .netrc parser that accepts # comment lines, forked from netrc-rs"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jdx/netrc-jdx"
+keywords = ["netrc", "parser"]
+categories = ["parser-implementations"]
+
+[dependencies]

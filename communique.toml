@@ -1,0 +1,4 @@
+context = "netrc-jdx is a small Rust library that parses .netrc files. It is a fork of netrc-rs that accepts # comment lines, like curl and Python's netrc module."
+
+[defaults]
+emoji = false

@@ -1,0 +1,6 @@
+[workspace]
+pr_labels = ["release"]
+git_tag_enable = true
+git_release_enable = true
+# Created as a draft so communique can write the notes before it goes public
+git_release_draft = true

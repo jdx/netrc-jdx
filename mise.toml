@@ -1,0 +1,2 @@
+[tools]
+communique = { version = "latest", minimum_release_age = "0s" }
